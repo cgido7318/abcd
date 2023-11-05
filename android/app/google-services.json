@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006992790698",
+    "project_id": "d0mi-712",
+    "storage_bucket": "d0mi-712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006992790698:android:8e646a66f9e11ce8cbecd3",
+        "android_client_info": {
+          "package_name": "com.fx712.d0mi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVBi-H2VmiiyqwKDEKp1_Zc6V4IvXe3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
